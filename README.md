@@ -11,4 +11,4 @@ Apprendre à utiliser GitHub et développer mes projets digitaux.
 - Plateforme de location
 
 ## Auteur
-[ton nom]
+[Ferte]
